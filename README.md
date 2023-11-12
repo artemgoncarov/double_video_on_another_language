@@ -10,7 +10,7 @@ Rutube is a Russian-language platform with content in Russian. However, such con
 
 ## Algorithm
 
-![](https://i.imgur.com/kR2Kbcr.jpg)
+![](https://i.imgur.com/RbkfcuZ.png)
 
 ## RUN
 
