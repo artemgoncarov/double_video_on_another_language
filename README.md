@@ -33,3 +33,13 @@ model.load_checkpoint(config, checkpoint_dir="path/to/chechpoint/dir", use_deeps
 
 model.cuda()
 ```
+# 3) upload your video and put your path
+```python
+video_file = 'path/to/your/mp4/file'
+```
+# 4) choose your voice: original(better, than google, but slower) or google(faster)
+# 5.1) If you choose original voice, run all cells in "Оригинальный голос" tab
+# 5.2) If you choose google voice, run all cells in "Озвучка Google" tab
+# 6) Download output.mp4 file
+
+Here you are, thanks for watching our project)
