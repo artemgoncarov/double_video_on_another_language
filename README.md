@@ -1,4 +1,4 @@
-### Automaticaly dublicate video on another language
+# Automaticaly dublicate video on another language
 
 Our team exists 3 members: Goncharov Artem(14 y.o., 4 years in IT), Gorskiy Trofim(17 y.o., 3 years in IT), Alehin Andrey(17 y.o., 4 years in IT). We are talanted schoolboys with large experience.
 
