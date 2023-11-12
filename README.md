@@ -43,3 +43,8 @@ video_file = 'path/to/your/mp4/file'
 # 6) Download output.mp4 file
 
 Here you are, thanks for watching our project)
+
+## Examples:
+
+(https://rutube.ru/video/private/866307cab9260c06396a451650b780f6/?p=MIUUSgTRDpVV0-0oAmTwHg)
+(https://rutube.ru/video/private/8900566938ad4292cbaef41183d080c0/?p=N8h7rc4VaHnqppqFrPdcAg)
