@@ -8,6 +8,10 @@ Our team exists 3 members: Goncharov Artem(14 y.o., 4 years in IT), Gorskiy Trof
 
 Rutube is a Russian-language platform with content in Russian. However, such content may be of interest to foreign users who do not know Russian. The interest lies in the fact that the same content can be viewed in different languages, which certainly expands the author’s audience.
 
+## Algorithm
+
+![](https://i.imgur.com/kR2Kbcr.jpg)
+
 ## RUN
 
 # 1) install all packets and libraries
