@@ -24,7 +24,7 @@ Rutube is a Russian-language platform with content in Russian. However, such con
 !pip install spleeter
 !pip install pypinyin
 ```
-# 2) upload <a href="[https://github.com/artemgoncarov/double_video_on_another_language/xtts](https://drive.google.com/drive/folders/1jJWNEfKbqFZtOWioz1foDLgYBzf5jK6-?usp=sharing)">model</a>
+# 2) upload <a href="https://github.com/artemgoncarov/double_video_on_another_language/xtts">model</a>
 ```python
 config = XttsConfig()
 config.load_json("your/path/to/config.json")
