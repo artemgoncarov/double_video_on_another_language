@@ -4,7 +4,7 @@ This is a project, which can help you to dublicate video on any language.
 
 # Problematics
 
-Rutube is a Russian-language platform with content in Russian. However, such content may be of interest to foreign users who do not know Russian. The interest lies in the fact that the same content can be viewed in different languages, which certainly expands the author’s audience.
+A huge number of foreigners receiving education in Russia have poor or no knowledge of the Russian language. This project will help all people who want to study in Russia to receive a quality education. I present to you a solution that, using artificial intelligence and machine learning technologies, duplicates video lectures into any language while preserving the true voice of the author.
 
 # Algorithm
 
@@ -47,7 +47,7 @@ video_file = 'path/to/your/mp4/file'
 ## 5.3) If you choose one voice, run all cells in "One voice" tab
 ## 6) Download output.mp4 file
 
-Here you are, thanks for watching our project)
+Here you are, thanks for watching my project)
 
 # <a href="https://disk.yandex.ru/d/UXSGMaHrAKSTKg">Examples</a>:
 
